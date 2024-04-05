@@ -2,3 +2,4 @@
 
 - Jen Struthers
 - Chelsea Scott
+- Simone Chung
