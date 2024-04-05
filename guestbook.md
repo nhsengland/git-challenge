@@ -2,4 +2,5 @@
 
 - Jen Struthers
 - Chelsea Scott
+- Simone Chung
 - Debbie Moon
