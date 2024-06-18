@@ -5,7 +5,8 @@
 - Simone Chung
 - Debbie Moon
 - Ruth Keane
-- Guest 1
+- Andreea Crisan
 - Guest 2
 - Jonathan Banks
-- Guest 4
+- Ken Quan
+
