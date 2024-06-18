@@ -7,5 +7,6 @@
 - Ruth Keane
 - Andreea Crisan
 - Guest 2
-- Guest 3
+- Jonathan Banks
 - Ken Quan
+
