@@ -1,3 +1,4 @@
+
 # Sign the guestbook by adding your name below!
 
 - Owen Kennedy
@@ -11,4 +12,6 @@
 - Jonathan Banks
 - Ken Quan
 - Rosalind Batty
+- Jen Struthers
+- Matt Lyle
 - Jen Struthers
