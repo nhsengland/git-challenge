@@ -11,5 +11,7 @@
 - Guest 2
 - Jonathan Banks
 - Ken Quan
+- Rosalind Batty
+- Jen Struthers
 - Matt Lyle
 - Jen Struthers
