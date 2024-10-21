@@ -1,5 +1,6 @@
 # Sign the guestbook by adding your name below!
 
+- Owen Kennedy
 - Jen Struthers
 - Chelsea Scott
 - Simone Chung
@@ -10,3 +11,4 @@
 - Jonathan Banks
 - Ken Quan
 - Rosalind Batty
+- Jen Struthers
