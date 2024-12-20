@@ -17,7 +17,3 @@
 - Matt Lyle
 - Jen Struthers
 - Kin Quan
-- Tony Stark
-- The Little Mermaid
-- Boris Becker
-- Natalie Portman
