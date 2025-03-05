@@ -23,3 +23,5 @@
 - Mickey Mouse
 - Tony Stark
 - Gavin Bell
+- Rob Shaw
+- Guy Walker
