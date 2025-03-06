@@ -28,3 +28,5 @@
 - Rob Shaw
 - Guy Walker
 - Anna Bulteel
+- Alex Porter was ere
+- Nic Farthing
