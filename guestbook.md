@@ -1,6 +1,7 @@
 
 # Sign the guestbook by adding your name below!
 
+- More conflict!!
 - Owen Kennedy
 - Jen Struthers
 - Chelsea Scott
@@ -13,7 +14,7 @@
 - Ken Quan
 - Amelia Sullivan
 - Rosalind Batty
-- Jen Struthers
+- Jen Struthers!
 - Matt Lyle
 - Jen Struthers
 - Kin Quan
@@ -36,3 +37,4 @@
 - Beth
 - Christine Wells
 - Eman Akbar :)
+- Creating conflict :P
